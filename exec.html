@@ -1,0 +1,74 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Exec</title>
+    {% include standard_head.html %}
+</head>
+<body>
+    {% include header.html %}
+    <main class="exec-main">
+        <h1> Meet the <span>Exec</span></h1>
+
+        <div class="exec-row">
+            {% for exec in site.data.exec.exec-1 %}
+            <div class="exec-unit">
+                <p> {{ exec.position }} </p>
+                <div id="{{ exec.id }}" class="img-container"><img src="{{ exec.img }}"></div>
+            </div>
+            {% endfor %}
+        </div>
+
+        <div class="exec-row">
+            {% for exec in site.data.exec.exec-2 %}
+            <div class="exec-unit">
+                <p> {{ exec.position }} </p>
+                <div id="{{ exec.id }}" class="img-container"><img src="{{ exec.img }}"></div>
+            </div>
+            {% endfor %}
+        </div>
+
+        <div class="exec-row">
+            {% for exec in site.data.exec.exec-3 %}
+            <div class="exec-unit">
+                <p> {{ exec.position }} </p>
+                <div id="{{ exec.id }}" class="img-container"><img src="{{ exec.img }}"></div>
+            </div>
+            {% endfor %}
+        </div>
+
+        <hr>
+        {% for exec in site.data.exec.exec-1 %}
+        <div id="{{ exec.id }}-info" class="exec-info">
+            <div class="info-head">
+                <div class="img-container"><img src="{{ exec.img }}"></div>
+                <h2> {{ exec.name }} </h2>
+            </div>
+            <div class="info-body"><p>{{ exec.about }}</p></div>
+        </div>
+        {% endfor %}
+        {% for exec in site.data.exec.exec-2 %}
+        <div id="{{ exec.id }}-info" class="exec-info">
+            <div class="info-head">
+                <div class="img-container"><img src="{{ exec.img }}"></div>
+                <h2> {{ exec.name }} </h2>
+            </div>
+            <div class="info-body"><p>{{ exec.about }}</p></div>
+        </div>
+        {% endfor %}
+        {% for exec in site.data.exec.exec-3 %}
+        <div id="{{ exec.id }}-info" class="exec-info">
+            <div class="info-head">
+                <div class="img-container"><img src="{{ exec.img }}"></div>
+                <h2> {{ exec.name }} </h2>
+            </div>
+            <div class="info-body"><p>{{ exec.about }}</p></div>
+        </div>
+        {% endfor %}
+
+    </main>
+    {% include footer.html %}
+    {% include scripts.html %}
+</body>
+</html>

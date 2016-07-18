@@ -1,0 +1,84 @@
+header
+  position: fixed
+  height: 64px
+  width: 100%
+  background-color: white
+  box-shadow: $shadow
+  z-index: 2
+
+  img
+    +size(150px 50px)
+    float: left
+    margin-left: 20px
+    margin-top: 6px
+
+  .nav-bar
+    float: right
+    margin-top: 21px
+    margin-right: 50px
+
+    a
+      display: inline-block
+      color: transparentize($link-color, 0.5)
+      margin-left: 30px
+      font-weight: 600
+      text-transform: uppercase
+      letter-spacing: 0.5px
+      padding: 0px 10px 17px 10px
+      border-bottom: 4px solid transparent
+
+      &:hover
+        border-bottom: 4px solid $primary-color
+
+    .active
+      border-bottom: 4px solid $primary-color
+
+  button
+    visibility: hidden
+    opacity: 0.4
+
+  .mobile-nav
+    display: none
+
+
+@media (max-width: 1015px)
+  header
+    .nav-bar
+      display: none
+
+    img
+      clear: both
+      display: block
+      position: relative
+      left: 50%
+      margin-left: -60px
+
+    button
+      visibility: visible
+      position: relative
+      top: 3px
+      right: 85px
+      
+    .mobile-nav
+      +display(flex)
+      +flex-direction(column)
+      +align-items(center)
+      position: relative
+      top: 4px
+      left: -300px
+      background-color: white
+      width: 300px
+      box-shadow: $shadow
+      +transition(500ms)
+      z-index: 1
+
+      a
+        margin: 15px 16px
+        opacity: 0.5
+        font-size: 16px
+      
+      hr
+        width: 60%
+        
+      .active
+        font-weight: bold

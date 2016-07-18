@@ -1,0 +1,40 @@
+tab-title: "Sepcial Events"
+page-title: "Special <span>Events</span>"
+
+events-info:
+- { name: "The Source",
+    id: "source",
+    time: "Last Wednesday of the month @ <span>6:30pm</span>",
+    location: "Canadian <span>Martyrs</span>",
+    img: /assets/img/events/rosary.jpeg",
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna
+        aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+  }
+- { name: "Night Fever",
+    id: "fever",
+    time: "November 11 @ <span>??:00pm</span>",
+    location: "Canadian <span>Martyrs</span>",
+    img: /assets/img/events/jam.jpg",
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna
+        aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+  }
+- { name: "Semi Formal Dance",
+    id: "dance",
+    time: "Some time near end of term",
+    location: "Canadian Martyrs <span>Basement</span>",
+    img: /assets/img/events/compass.jpg",
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna
+        aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+  }
+- { name: "Bishop's Mass",
+    id: "bishop",
+    time: "Sometime in January?",
+    location: "Canadian <span>Martyrs</span>",
+    img: /assets/img/events/fellowship-friday.jpg",
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna
+        aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+  }

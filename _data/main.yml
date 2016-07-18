@@ -1,0 +1,20 @@
+title: Macsa
+landing-quote: Welcome to Macsa!
+description: A collection of students who live to bring the Gospel of Love to the student community.
+
+# Menu Navigation
+
+menu:
+- {name: Liturgy &amp; Sacraments, url: '/sacraments/'}
+- {name: Exec, url: '/exec/'}
+- {name: Weekly Events, url: '/weekly-events/'}
+- {name: Special Events, url: '/special-events/'}
+- {name: Contact Us, url: '/contact/'}
+
+menu-mobi:
+- {name: Home, url: '/'}
+- {name: Liturgy &amp; Sacraments, url: '/sacraments/'}
+- {name: Exec, url: '/exec/'}
+- {name: Weekly Events, url: '/weekly-events/'}
+- {name: Special Events, url: '/special-events/'}
+- {name: Contact Us, url: '/contact/'}

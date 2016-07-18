@@ -1,0 +1,68 @@
+main.index-main
+  .landing-img
+    height: calc(100vh - 64px)
+    width: 100%
+    background:
+      image: url(/assets/img/canadian_martyrs.jpg)
+      position: center
+      repeat: no-repeat
+      size: cover
+      attachment: fixed
+    +display(flex)
+    +justify-content(center)
+    +align-items(center)
+
+    .img-text
+      background-color: transparentize(white, 0.5)
+      border: 3px solid $primary-color
+      border-radius: 15px
+      color: $primary-color
+      font-size: 72px
+      text-align: center
+
+  h2
+    text-align: center
+
+  .description
+    text-align: center
+    margin-top: 0
+
+  .macsa-group-photo
+    height: 800px
+    background:
+      image: url(/assets/img/macsa-group.jpg)
+      position: center 30%
+      repeat: no-repeat
+      size: cover
+
+  .calendar-wrap
+    width: 60%
+    margin: 0 auto 
+    padding: 20px 30px 
+    box-shadow: $shadow
+    
+    #calendar
+      width: 100%
+
+@media (max-width: 1400px)
+  main.index-main .calendar-wrap
+    width: 80%
+
+@media (max-width: 1025px)
+  main.index-main .calendar-wrap
+    margin: 0 auto 20px
+    padding: 20px 0 40px
+    width: 90%
+
+@media (max-width: 400px)
+  main.index-main .landing-img .img-text
+    font-size: 50px
+
+/* Fixing CSS Of the FullCalendar */
+// Change the Background Color of the event box
+.fc-toolbar h2
+  font-size: 24px
+
+
+
+

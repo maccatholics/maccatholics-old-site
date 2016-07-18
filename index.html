@@ -1,0 +1,38 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>{{ site.data.main.title }}</title>
+    {% include standard_head.html %}
+</head>
+<body>
+    {% include header.html %}
+
+    <main class="index-main">
+        <div class="landing-img">
+          <div class="img-text">{{ site.data.main.landing-quote }}</div>
+        </div>
+        <h2>
+            <span>M</span>cMaster <span>C</span>atholic <span>S</span>tudent's <span>A</span>ssociation 
+        </h2>
+        <p class="description">{{ site.data.main.description }}</p>
+        <div class="macsa-group-photo"></div>
+        <h2>This week in <span>MACSA</span></h2>
+        <div class="calendar-wrap">
+            <div id="calendar"></div>
+        </div>
+    </main>
+
+    {% include footer.html %}
+
+    {% include scripts.html %}
+
+    <!-- These are for the calendar -->
+    <script src="/assets/js/calendar_function.js"></script>
+    <script src="/assets/js/moment.min.js"></script>
+    <script src="/assets/js/fullcalendar.min.js"></script>
+    <script src="/assets/js/gcal.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+# This is all the information for the sacraments page
+
+tab-title: "Sacraments"
+page-title: "Liturgy &amp; <span>Sacraments</span>"
+church-img: "/assets/img/canadian_martyrs.jpg"
+
+mass-times:
+- { time: "Sunday @ <span>10:00am</span>" }
+- { time: "Sunday @ <span>12:00pm</span>" }
+- { time: "Sunday @ <span>12:30pm</span>" }
+
+confession-times:
+- { time: "Tuesday-Friday @ <span>12:00pm</span>" }
+- { time: "These times don't work? Set up an <span>appointment</span>" }
+
+adoration-times:
+- { time: "Friday from <span>1:00pm</span> to <span>7:00pm</span>" }
+- { time: "Last Wednesday of the Month from <span>7:30pm</span> to <span>8:30pm</span>" }

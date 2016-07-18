@@ -1,0 +1,91 @@
+main.contact-main
+  p
+    margin: 0
+
+  h2
+    text-align: center
+
+  .content-wrap
+    +display(flex)
+    +justify-content(space-around)
+
+    .emails
+      .email-unit
+        +display(flex)
+
+        .icon
+          +display(flex)
+          +align-items(center)
+          +justify-content(center)
+          +size(24px)
+          padding: 5px
+          font-size: 24px
+          opacity: 0.4
+
+        p
+          display: inline-block
+          margin-left: 20px
+          margin-bottom: 10px
+
+    .social-media
+      .social-media-unit
+        +display(flex)
+        .icon
+          +display(flex)
+          +align-items(center)
+          +justify-content(center)
+          +size(24px)
+          padding: 5px
+          border-radius: 50%
+          border: solid 2px black
+          opacity: 0.4
+          font-size: 24px
+
+        p
+          display: inline-block
+          margin-left: 20px
+          margin-bottom: 10px
+
+  .map-container
+    width: 70%
+    margin: 0 auto
+    box-shadow: $shadow
+
+    & > iframe
+      width: 100%
+      height: 600px
+
+@media (max-width: 1300px)
+  main.contact-main
+    .content-wrap
+      display: block
+
+      .emails
+        display: inline-block
+        margin-left: calc(50% - 195px)
+
+      .snail-mail
+        display: inline-block
+        margin-left: calc(50% - 210px)
+
+      .social-media
+        display: inline-block
+        margin-left: calc(50% - 206px)
+
+  .map-container > iframe
+    height: 400px
+
+@media (max-width: 450px)
+  main.contact-main
+    h1
+      font-size: 36px
+      margin-top: 30px
+    h2
+      font-size: 30px
+    .icon, p
+      font-size: 20px
+
+    .content-wrap
+      .emails, .snail-mail, .social-media
+        margin-left: 10px
+

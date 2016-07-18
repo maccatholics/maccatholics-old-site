@@ -1,0 +1,66 @@
+main.events-main
+  h1
+    margin: 0
+  h2
+    display: inline-block
+    margin: 0 80px
+
+  .heading
+    margin-top: 50px
+    +display(flex)
+    +justify-content(space-around)
+    +align-items(center)
+
+    h3:hover
+      cursor: pointer
+      color: $primary-color
+
+  .event-unit
+    margin-top: 30px
+
+    .event-header
+      text-align: center
+      p
+        display: inline-block
+    .event-info
+      width: 80%
+      margin: 0 auto
+      +display(flex)
+      +justify-content(space-between)
+      +align-items(center)
+
+      img
+        +size(137px 217px)
+        border-radius: 10px
+        box-shadow: $shadow
+      p
+        margin-left: 30px
+
+@media (max-width: 950px)
+  main.events-main
+    .heading
+      h3
+        display: none
+
+@media (max-width: 800px)
+  main.events-main
+    .event-unit
+      .event-header
+        h2
+          display: block
+        p
+          margin: 0
+      .event-info
+        width: auto
+        margin: 0 10px
+
+@media (max-width: 430px)
+  main.events-main
+    .event-unit
+      .event-info
+        display: block
+        img
+          margin-right: 10px
+          float: left
+        p
+          margin: 0

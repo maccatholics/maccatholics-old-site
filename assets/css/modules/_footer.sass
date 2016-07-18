@@ -1,0 +1,63 @@
+footer
+  position: relative
+  height: 200px
+  background-color: white
+
+  img
+    +size(150px  50px)
+    position: absolute
+    top: calc(50% - 25px)
+
+  .footer-content
+    position: relative
+    top: calc(50% - 58px)
+    margin-left: 200px
+
+    .social-icons
+      +display(flex)
+
+      .social-icon
+        +display(flex)
+        +justify-content(center)
+        +align-items(center)
+        +size(32px)
+        padding: 5px
+        border-radius: 50%
+        border: solid 2px black
+        opacity: 0.4
+        margin-right: 30px
+        a
+          font-size: 32px
+
+    .copywrite
+      font-size: 12px
+      opacity: 0.5
+
+    .footer-nav  a
+      color: $primary-color
+      margin-right: 30px
+
+@media (max-width: 500px)
+  footer 
+    img
+      position: relative
+      display: block
+      margin: 0 auto
+      top: auto
+
+    .footer-content
+      margin-top: -30px
+      margin-left: 0px
+
+      .social-icons
+        +justify-content(space-around)
+        .social-icon
+          margin: 0
+
+      .copywrite
+        text-align: center
+
+      .footer-nav 
+        text-align: center
+        a
+          margin-right: 5px

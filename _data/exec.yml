@@ -1,0 +1,97 @@
+# This is the page where you can edit all of the information about the exec
+
+exec-1:
+- { name: Fr. Bradely <span>Markus</span>, 
+    position: Catholic Chaplain,
+    id: chaplain,
+    img: /assets/img/exec/fr_markus.jpg,
+    about: "About Me"
+  }
+- { name: Sneha <span>Moraes</span>,
+    position: Co President,
+    id: co-pres-1,
+    img: /assets/img/exec/sneha.jpg,
+    about: "About Me"
+  }
+- { name: Ronald <span>Perinpanayagam</span>,
+    position: Co President,
+    id: co-pres-2,
+    img: /assets/img/exec/ronald.jpg,
+    about: "About Me"
+  }
+- { name: unknown,
+    position: KCS President,
+    id: kcs,
+    img: /assets/img/exec/no-img.jpg,
+    about: "About Me"
+  }
+- { name: unknown,
+    position: MCCC President,
+    id: mccc,
+    img: /assets/img/exec/no-img.jpg,
+    about: "About Me"
+  }
+
+exec-2:
+- { name: unknown,
+    position: Communications,
+    id: comm,
+    img: /assets/img/exec/no-img.jpg,
+    about: "About Me"
+  }
+- { name: unknown,
+    position: Treasurer,
+    id: treasurer,
+    img: /assets/img/exec/no-img.jpg,
+    about: "About Me"
+  }
+- { name: unknown,
+    position: Leaders Coordinator,
+    id: leaders,
+    img: /assets/img/exec/no-img.jpg,
+    about: "About Me"
+  }
+- { name: unknown,
+    position: Media Director,
+    id: media,
+    img: /assets/img/exec/no-img.jpg,
+    about: "About Me"
+  }
+- { name: unknown,
+    position: Outreach,
+    id: outreach,
+    img: /assets/img/exec/no-img.jpg,
+    about: "About Me"
+  }
+- { name: unknown,
+    position: Music,
+    id: music,
+    img: /assets/img/exec/no-img.jpg,
+    about: "About Me"
+  }
+exec-3:
+- { name: unknown,
+    position: Student Mass Director,
+    id: mass,
+    img: /assets/img/exec/no-img.jpg,
+    about: "About Me"
+  }
+- { name: unknown,
+    position: Jam Exec,
+    id: jam,
+    img: /assets/img/exec/no-img.jpg,
+    about: "About Me"
+  }
+- { name: unknown,
+    position: Compass Exec,
+    id: compass,
+    img: /assets/img/exec/no-img.jpg,
+    about: "About Me"
+  }
+- { name: unknown,
+    position: Special Events,
+    id: events,
+    img: /assets/img/exec/no-img.jpg,
+    about: "About Me"
+  }
+

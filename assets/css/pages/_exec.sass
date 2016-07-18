@@ -1,0 +1,62 @@
+main.exec-main
+  .exec-row
+    text-align: center
+
+    .exec-unit 
+      display: inline-block
+      width: 231px
+      text-align: center
+      margin-bottom: 10px
+
+      p
+        margin: 0
+
+      .img-container
+        display: inline-block
+        +size(75px)
+        border-radius: 50%
+        overflow: hidden
+
+        img
+          +size(75px)
+
+  hr
+    width: 80%
+
+  .exec-info
+    display: none
+    margin-top: 30px
+
+    .info-head
+      +display(flex)
+      +justify-content(center)
+
+      .img-container
+        +size(100px)
+        border-radius: 50%
+        overflow: hidden
+        margin-right: 20px
+
+        img
+          +size(100px)
+
+    .info-body
+      width: 60%
+      margin: 0 auto
+
+@media (max-width: 450px)
+  main.exec-main
+    .exec-info 
+      .info-head
+        display: block
+        text-align: center
+
+        h2
+          display: inline
+
+        .img-container
+          margin: 0 auto
+
+      .info-body
+        width: 100%
+        text-align: center

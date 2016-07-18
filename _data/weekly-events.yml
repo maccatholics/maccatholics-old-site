@@ -1,0 +1,40 @@
+tab-title: "Weekly Events"
+page-title: "Weekly <span>Events</span>"
+
+events-info:
+- { name: "Daily Rosary",
+    id: "rosary",
+    time: "Everyday @ <span>1:30pm</span>",
+    location: "Div College <span>Chapel</span>",
+    img: /assets/img/events/rosary.jpeg",
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna
+        aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+  }
+- { name: "Jam",
+    id: "jam",
+    time: "Mondays @ <span>6:30pm</span>",
+    location: "Div College <span>224</span>",
+    img: /assets/img/events/jam.jpg",
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna
+        aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+  }
+- { name: "Compass",
+    id: "compass",
+    time: "Wednesdays @ <span>7:00pm</span>",
+    location: "MUSC <span>2XX</span>",
+    img: /assets/img/events/compass.jpg",
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna
+        aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+  }
+- { name: "Fellowship Fridays",
+    id: "fellowship",
+    time: "Fridays @ <span>8:00pm</span>",
+    location: "Emmerson <span>38</span>",
+    img: /assets/img/events/fellowship-friday.jpg",
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna
+        aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+  }
