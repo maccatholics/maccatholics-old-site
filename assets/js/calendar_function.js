@@ -1,9 +1,9 @@
 $(document).ready(function(){
     $('#calendar').fullCalendar({
         /* Load Calendar events */
-        googleCalendarApiKey: 'AIzaSyBcjzW2dLzveyrOwL4TiRSmQYHWGThnD6Q',
+        googleCalendarApiKey: 'AIzaSyBCaGcgqgLeJCxKwYgNySGcSP_Xe2LqTjI',
         events: {
-            googleCalendarId: 'philip.habib6347@gmail.com'
+            googleCalendarId: '45dblcpbd2i11oginolem1m1uc@group.calendar.google.com'
         },
         /* Change Header and change to week view */
         header: {
