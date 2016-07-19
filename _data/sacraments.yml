@@ -5,9 +5,10 @@ page-title: "Liturgy &amp; <span>Sacraments</span>"
 church-img: "/assets/img/canadian_martyrs.jpg"
 
 mass-times:
+- { time: "Saturday @ <span>5:00pm</span>" }
 - { time: "Sunday @ <span>10:00am</span>" }
 - { time: "Sunday @ <span>12:00pm</span>" }
-- { time: "Sunday @ <span>12:30pm</span>" }
+- { time: "Tuesday - Friday @ <span>12:30pm</span>" }
 
 confession-times:
 - { time: "Tuesday-Friday @ <span>12:00pm</span>" }

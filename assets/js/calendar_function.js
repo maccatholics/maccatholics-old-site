@@ -9,7 +9,7 @@ $(document).ready(function(){
         header: {
             left: '',
             center: 'title',
-            right: 'prev next'
+            right: 'month,agendaWeek  prev,next'
         },
         defaultView: 'agendaWeek',
 
@@ -21,7 +21,8 @@ $(document).ready(function(){
             dow: [0, 1, 2, 3, 4, 5, 6]
         },
         contentHeight: 700,
-        handleWindowResize: false
+        handleWindowResize: false,
+        scrollTime: "12:00:00"
 
     });
 });

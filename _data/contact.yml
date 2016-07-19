@@ -2,14 +2,14 @@ tab-title: "Contact Us"
 page-title: "Contact <span>Us</span>"
 
 emails:
-- { email: "<span>macsa</span>@gmail.com"  }
+- { email: "<span>macsa</span>@mcmaster.com"  }
 - { email: "<span>cdnmartyrsparish</span>@cogeco.net"  }
 - { email: "<span>bmarkus</span>@hamiltondiocese.com"  }
 
 snail-mail:
     "<span>McMaster</span> Catholic Students Association<br> 
-    <span>c/o MSY</span> Clubs Administrator<br>
-    <span>McMaster</span University<br>
+    <span>c/o MSU</span> Clubs Administrator<br>
+    <span>McMaster</span> University<br>
     <span>1280</span> Main Street West<br>
     <span>Hamilton,</span> Ontario<br>
     <span>L8S</span> 484"
