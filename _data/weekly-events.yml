@@ -16,18 +16,19 @@ events-info:
     time: "Mondays @ <span>6:30pm</span>",
     location: "Div College <span>224</span>",
     img: /assets/img/events/jam.jpg",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-        sed do eiusmod tempor incididunt ut labore et dolore magna
-        aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+    description: "JAM is a charismatic encounter with God in the Holy Spirit that 
+        leads to a deeper understanding and appreciation of our Catholic Church. 
+        If you are looking to grow with Jesus through a night of prayer, Scripture, 
+        and the people around you, come on out!"
   }
 - { name: "Compass",
     id: "compass",
     time: "Wednesdays @ <span>7:00pm</span>",
     location: "MUSC <span>2XX</span>",
     img: /assets/img/events/compass.jpg",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-        sed do eiusmod tempor incididunt ut labore et dolore magna
-        aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+    description: "At Compass, we dive deeper into the Gospels to further understand 
+        Jesus’ message, and have priests or nuns come in each week as guest speakers 
+        on a new focused theme each week."
   }
 - { name: "Fellowship Fridays",
     id: "fellowship",

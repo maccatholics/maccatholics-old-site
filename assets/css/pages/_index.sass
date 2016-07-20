@@ -20,6 +20,27 @@ main.index-main
       font-size: 72px
       text-align: center
 
+    .fab-down
+      position: absolute
+      right: 10px
+      bottom: 10px
+      background-color: $primary-color
+      +size(50px)
+      border-radius: 50%
+      cursor: pointer
+
+      &::before
+        position: absolute
+        content: ""
+        display: inline-block
+        width: 15px
+        height: 15px
+        border-right: 2px solid black
+        border-top: 2px solid black
+        transform: rotate(135deg)
+        left: 16px
+        top: 14px
+
   h2
     text-align: center
 

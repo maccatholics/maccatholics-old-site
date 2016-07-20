@@ -7,9 +7,12 @@ events-info:
     time: "Third Wednesday of the month @ <span>6:30pm</span>",
     location: "Canadian <span>Martyrs</span>",
     img: /assets/img/events/rosary.jpeg",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-        sed do eiusmod tempor incididunt ut labore et dolore magna
-        aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+    description: "The Source is a beautiful evening of prayer, fellowship 
+        and quality time with the Lord. We begin with some praise and worship, 
+        followed by a student testimony of how God has worked in their life. 
+        Then, we hear a talk from a priest, and finally we will spend one hour 
+        in Adoration with the Lord at which time you will also have an opportunity 
+        to go to confession. We close of the evening with pizza and lots of snacks!"
   }
 - { name: "Night Fever",
     id: "fever",

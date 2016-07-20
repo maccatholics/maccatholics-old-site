@@ -2,6 +2,7 @@ $( document ).ready(function() {
 
     toggle_mobi_nav();
     // handle_parallax_landing();
+    index_scrolling();
     exec_scrolling();
     weekly_events_scrolling();
 });
@@ -28,6 +29,14 @@ function handle_parallax_landing() {
         $('.landing-img .img-text').css({
             'transform' : 'translate(0px, ' + wScroll/5 + '%)'
         });
+    });
+}
+function index_scrolling() {
+    $('.fab-down').click(function(){
+        $('html, body').animate({
+            scrollTop: $('.macsa-ribbon').offset().top - 64
+        });
+
     });
 }
 
