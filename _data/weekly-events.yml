@@ -7,35 +7,44 @@ events-info:
     time: "Everyday @ <span>1:30pm</span>",
     location: "Div College <span>Chapel</span>",
     img: /assets/img/events/rosary.jpeg",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-        sed do eiusmod tempor incididunt ut labore et dolore magna
-        aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+    description: "Everyday, people go to the chapel of divinity college
+      to pray the rosary together, sharing intentions and concerns. Whether you 
+      pray the rosary every day or you have never prayed it before, it's a
+      great opportunity to adore our Mother Mary."
   }
 - { name: "Jam",
     id: "jam",
     time: "Mondays @ <span>6:30pm</span>",
     location: "Div College <span>224</span>",
     img: /assets/img/events/jam.jpg",
-    description: "JAM is a charismatic encounter with God in the Holy Spirit that 
-        leads to a deeper understanding and appreciation of our Catholic Church. 
-        If you are looking to grow with Jesus through a night of prayer, Scripture, 
-        and the people around you, come on out!"
+    description: "JAM is a wonderful opportunity for us to encounter the power of the 
+      Holy Spirit through praise and worship and Word of God. Praying with people around us 
+      helps us to dive into the true teachings of the Catholic Church, to have a Christ-centered 
+      life and to have more meaningful and deeper relationships with God Himself, and with our 
+      brothers and sisters in Christ. Come join us for JAM in room 224 of Divinity College 
+      every Monday at 6:30 for a night of prayer, reflection and scripture."
   }
 - { name: "Compass",
     id: "compass",
     time: "Wednesdays @ <span>7:00pm</span>",
     location: "MUSC <span>2XX</span>",
     img: /assets/img/events/compass.jpg",
-    description: "At Compass, we dive deeper into the Gospels to further understand 
-        Jesus’ message, and have priests or nuns come in each week as guest speakers 
-        on a new focused theme each week."
+    description: "Wondering about the Catholic faith? Looking for a community of inquisitive 
+      and friendly people to hang out with? The Catholic Compass is a student group that helps 
+      people deepen their understanding of the catholic faith by explaining difficult church 
+      teaching and addressing modern issues. We introduce people to aspects of faith that 
+      they may not be familiar with. Our meetings involve listening to a talk by a speaker 
+      and transition into an open forum where we discuss and ask questions about the presented topic. 
+      We invite anyone, Catholic or not, to come in and participate in the gathering. 
+      Free refreshments provided! We cannot wait to see you there! God Bless."
   }
 - { name: "Fellowship Fridays",
     id: "fellowship",
     time: "Fridays @ <span>8:00pm</span>",
     location: "Emmerson <span>38</span>",
     img: /assets/img/events/fellowship-friday.jpg",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-        sed do eiusmod tempor incididunt ut labore et dolore magna
-        aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+    description: "Fellowship Fridays are a great way to de-stress after a long week of classes.  
+      This is a great opportunity to meet new people and catch up with friends over food, games 
+      and outings in the community throughout the year starting at 7pm.  Check the macsa Facebook 
+      page for weekly updates!"
   }

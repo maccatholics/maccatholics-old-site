@@ -19,76 +19,83 @@ exec-1:
     img: /assets/img/exec/ronald.jpg,
     about: "About Me"
   }
-- { name: unknown,
-    position: KCS President,
-    id: kcs,
+- { name: Justin <span>Lee</span>,
+    position: MCCC  Co President,
+    id: mccc-1,
     img: /assets/img/exec/no-img.jpg,
     about: "About Me"
   }
-- { name: unknown,
-    position: MCCC President,
-    id: mccc,
+- { name: Maria <span>D’Azevedo</span>,
+    position: MCCC Co President,
+    id: mccc-2,
     img: /assets/img/exec/no-img.jpg,
     about: "About Me"
   }
 
 exec-2:
-- { name: unknown,
+- { name: Annphin <span>Mathew</span>,
     position: Communications,
     id: comm,
     img: /assets/img/exec/no-img.jpg,
     about: "About Me"
   }
-- { name: unknown,
+- { name: Kristian <span>Ashali</span>,
     position: Treasurer,
     id: treasurer,
     img: /assets/img/exec/no-img.jpg,
     about: "About Me"
   }
-- { name: unknown,
+- { name: Fredrik <span>Francis</span>,
     position: Leaders Coordinator,
     id: leaders,
     img: /assets/img/exec/no-img.jpg,
     about: "About Me"
   }
-- { name: unknown,
+- { name: Emily <span>Cestra</span>,
     position: Media Director,
     id: media,
     img: /assets/img/exec/no-img.jpg,
     about: "About Me"
   }
-- { name: unknown,
+- { name: Anika <span>Andal</span>,
     position: Outreach,
     id: outreach,
     img: /assets/img/exec/no-img.jpg,
     about: "About Me"
   }
-- { name: unknown,
+- { name: Tiffany <span>Sebastianpillai</span>,
     position: Music,
     id: music,
     img: /assets/img/exec/no-img.jpg,
     about: "About Me"
   }
+
 exec-3:
-- { name: unknown,
+- { name: Cody <span>Van Der Kooi</span>,
     position: Student Mass Director,
     id: mass,
     img: /assets/img/exec/no-img.jpg,
     about: "About Me"
   }
-- { name: unknown,
+- { name:  Isabel <span>Mani</span>,
     position: Jam Exec,
     id: jam,
     img: /assets/img/exec/no-img.jpg,
     about: "About Me"
   }
-- { name: unknown,
+- { name: Natalie <span>Cheng<span>,
     position: Compass Exec,
     id: compass,
     img: /assets/img/exec/no-img.jpg,
     about: "About Me"
   }
-- { name: unknown,
+- { name: Rachel <span>D’Arsie</span>,
+    position: Fellowship Exec,
+    id: fellowship,
+    img: /assets/img/exec/no-img.jpg,
+    about: "About Me"
+  }
+- { name: Lanvin <span>Pineda</span>,
     position: Special Events,
     id: events,
     img: /assets/img/exec/no-img.jpg,
