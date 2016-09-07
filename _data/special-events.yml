@@ -6,7 +6,7 @@ events-info:
     id: "source",
     time: "Third Wednesday of the month @ <span>6:30pm</span>",
     location: "Canadian <span>Martyrs</span>",
-    img: /assets/img/events/rosary.jpeg",
+    img: /assets/img/events/source.jpg",
     description: "The Source is a beautiful evening of prayer, fellowship 
         and quality time with the Lord. We begin with some praise and worship, 
         followed by a student testimony of how God has worked in their life. 
@@ -16,28 +16,27 @@ events-info:
   }
 - { name: "Night Fever",
     id: "fever",
-    time: "November 11 @ <span>??:00pm</span>",
+    time: "November 11 @ <span>5:00pm</span>",
     location: "Canadian <span>Martyrs</span>",
-    img: /assets/img/events/jam.jpg",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-        sed do eiusmod tempor incididunt ut labore et dolore magna
-        aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+    img: /assets/img/events/nightfever.jpg",
+    description: "Nightfever is a night of solidarity for the faithfully departed. Come light 
+        a candle for a loved one that you've lost. There will be adoration and beautiful worship
+        music for the entire event, so stay as long as you like."
   }
 - { name: "Semi Formal Dance",
     id: "dance",
-    time: "Some time near end of term",
+    time: "Friday December 2 @ <span>7:00pm</span>",
     location: "Canadian Martyrs <span>Basement</span>",
-    img: /assets/img/events/compass.jpg",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-        sed do eiusmod tempor incididunt ut labore et dolore magna
-        aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+    img: /assets/img/events/dance.jpg",
+    description: "Twice a year, Macsa plans and hosts a semi formal dance for the purpose of 
+        celebrating a term well done. With food, dancing and lots of laughs, it's an event
+        you won't want to miss."
   }
 - { name: "Bishop's Mass",
     id: "bishop",
-    time: "Sometime in January?",
+    time: "Sunday March 12 @ <span>12:00pm</span>",
     location: "Canadian <span>Martyrs</span>",
-    img: /assets/img/events/fellowship-friday.jpg",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-        sed do eiusmod tempor incididunt ut labore et dolore magna
-        aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+    img: /assets/img/events/bishopmass.jpg",
+    description: "Every year, Bishop Crosby visits Canadian Martyrs to say mass. There will
+        be some awesome food afterwards, all for free!"
   }
