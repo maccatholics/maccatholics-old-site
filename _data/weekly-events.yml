@@ -15,7 +15,7 @@ events-info:
 - { name: "Jam",
     id: "jam",
     time: "Mondays @ <span>6:30pm</span>",
-    location: "Div College <span>224</span>",
+    location: "Div College <span>226</span>",
     img: /assets/img/events/jam.jpg",
     description: "JAM is a wonderful opportunity for us to encounter the power of the 
       Holy Spirit through praise and worship and Word of God. Praying with people around us 
@@ -27,7 +27,7 @@ events-info:
 - { name: "Compass",
     id: "compass",
     time: "Wednesdays @ <span>7:00pm</span>",
-    location: "MUSC <span>2XX</span>",
+    location: "MUSC <span>318</span>",
     img: /assets/img/events/compass.jpg",
     description: "Wondering about the Catholic faith? Looking for a community of inquisitive 
       and friendly people to hang out with? The Catholic Compass is a student group that helps 

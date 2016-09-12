@@ -11,7 +11,8 @@ exec-1:
     position: Co President,
     id: co-pres-1,
     img: /assets/img/exec/sneha.jpg,
-    about: "About Me"
+    about: "I am your co president for Macsa! I love how joyful everyone in Macsa is! My favourite book is The Book Thief
+        and my favourite saint is Saint Pope John Paul II. Also, I'm in fourth year political science."
   }
 - { name: Ronald <span>Perinpanayagam</span>,
     position: Co President,
@@ -23,13 +24,16 @@ exec-1:
     position: MCCC  Co President,
     id: mccc-1,
     img: /assets/img/exec/justin.jpg,
-    about: "About Me"
+    about: "I'm in third year mechatronics and I am the co president of the McMaster Chinese Catholic Community. 
+        I have weird fingers and my favourite saint is St. Therese of Lisieux! I love Macsa's mission."
   }
 - { name: Maria <span>D’Azevedo</span>,
     position: MCCC Co President,
     id: mccc-2,
     img: /assets/img/exec/maria.jpg,
-    about: "About Me"
+    about: "I am in McMaster's Health Science program, third year, and I am the co president of the McMaster Chinese Catholic Community.
+        My Favourite saints are St. Maria Goretti and St. Maximilian Kolbe. I love Macsa because I have made many good, Catholic friends
+        I can depend on!"
   }
 
 exec-2:
@@ -43,13 +47,14 @@ exec-2:
     position: Treasurer,
     id: treasurer,
     img: /assets/img/exec/no-img.jpg,
-    about: "About Me"
+    about: "I'm in 4th year Nursing and I am the treasurer for Macsa! My favourite saint is Padre Pio."
   }
 - { name: Fredrik <span>Francis</span>,
     position: Leaders Coordinator,
     id: leaders,
     img: /assets/img/exec/fredrik.jpg,
-    about: "About Me"
+    about: "I am in my second year of chemical engineering and my haircuts all cost $40. My favourite
+        saint is St. Peregrine. "
   }
 - { name: Emily <span>Cestra</span>,
     position: Media Director,
@@ -61,13 +66,16 @@ exec-2:
     position: Outreach,
     id: outreach,
     img: /assets/img/exec/anika.jpg,
-    about: "About Me"
+    about: "I'm in third year nursing here at McMaster! Interesting fact: I skipped the first grade. My favourite saint is Mother Mary.
+        I love Macsa for its sense of community and how we are so united in our love for Christ."
   }
 - { name: Tiffany <span>Sebastianpillai</span>,
     position: Music,
     id: music,
     img: /assets/img/exec/tiffany.jpg,
-    about: "About Me"
+    about: "I'm in my third year and I'm in the music cognition program. My favourite saint is Don Bosco and I love Macsa because 
+        it gives me the freedom to practice my faith without judgement. An interesting fact about me is that I have a 
+        form of synesthesia."
   }
 
 exec-3:
@@ -75,30 +83,37 @@ exec-3:
     position: Student Mass Director,
     id: mass,
     img: /assets/img/exec/cody.jpg,
-    about: "About Me"
+    about: "I am in third year civil engineering and management and I am a huge fan of all things sports. My favourite
+        saint is St. Paul and I love Macsa for its strong catholic community that cares about faith development. "
   }
 - { name:  Isabel <span>Mani</span>,
     position: Jam Exec,
     id: jam,
     img: /assets/img/exec/isabel.jpg,
-    about: "About Me"
+    about: "Hey! I'm in 3rd year Commerce and I am the Jam Exec. My favourite saint is Mother Teresa and I love how
+        Macsa has an eagerness to bring others to Christ. Also, I have never been to a beach."
   }
 - { name: Natalie <span>Cheng<span>,
     position: Compass Exec,
     id: compass,
     img: /assets/img/exec/natalie.jpg,
-    about: "About Me"
+    about: "Hiii. I'm in my third year here at McMaster for nursing and, weird fact about myself, I HATE touching 
+        cotton balls. Also, I ate a BBQ cricket anda salted cricket. My favourite saint is Blessed Mother Teresa and
+        I love all the people here at Macsa."
   }
 - { name: Rachel <span>D’Arsie</span>,
     position: Fellowship Exec,
     id: fellowship,
     img: /assets/img/exec/rachel.jpg,
-    about: "About Me"
+    about: "I am in third year honours Kinesiology and my favourite saint is St. Ignatius. I love landscape painting - if
+        you ever want to go for a hike and paint, give me a call! I love macsa because there are many diverse ways to grow
+        in our relationship with Christ and engage in the community. "
   }
 - { name: Lanvin <span>Pineda</span>,
     position: Special Events,
     id: events,
     img: /assets/img/exec/lanvin.jpg,
-    about: "About Me"
+    about: "I'm in honours life sciences, in my 4th year and I love St. Paul! When I was younger, I really wanted to be pope, but somehow skip priesthood.
+        I think my favourite part of macsa is the fellowship."
   }
 
