@@ -1,7 +1,7 @@
 # This is the page where you can edit all of the information about the exec
 
 exec-1:
-- { name: Fr. Bradely <span>Markus</span>, 
+- { name: Fr. Bradley <span>Markus</span>, 
     position: Catholic Chaplain,
     id: chaplain,
     img: /assets/img/exec/fr_markus.jpg,
