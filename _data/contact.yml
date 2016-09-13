@@ -24,10 +24,10 @@ social-media:
     slogan: "<span>Follow us</span> on Twitter."
   }
 - { icon: "instagram",
-    link: "https://www.youtube.com/user/maccatholics",
+    link: "https://instagram.com/macsa_/",
     slogan: "<span>Follow us</span> on Instagram."
   }
 - { icon: "youtube",
-    link: "https://instagram.com/macsa_/",
+    link: "https://www.youtube.com/user/maccatholics",
     slogan: "<span>Subscribe</span> to our Youtube channel."
   }
